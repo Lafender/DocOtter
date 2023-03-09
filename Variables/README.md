@@ -1,8 +1,8 @@
-#Variables
+# Variables
 
 ***
 
-##insert image
+#### insert image
 
 alternative text : meme text *slaps roof of car* this thing can hold so much   var   
 
