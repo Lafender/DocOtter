@@ -3,6 +3,23 @@ Documentation System and Document Writer. Includes Templates, Samples, and Educa
 
 
 ***
+
+### Second Update : 
+March 10th, 2023
+
+First Update is being kept as a reminder so that it doesn't need to be retyped for now.
+First Update(s) will be moved to a legacy branch eventually.
+
+added folders for : 
+- svg
+- html
+- xml
+- javascript
+
+subheadings ( double #) were added for each folder in the README.md
+
+***
+
 ### First Update : 
 March 6th, 2023
 
