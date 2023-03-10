@@ -2,9 +2,9 @@
 ***
 ## what is svg (Scalable Vector Graphics)
 ***
-## svg, html, tags, and rendering/printing
+## svg, html, tags, animations and rendering/printing
 ***
-## animations, formating, drawing
+## graphing (drawing), math snippets, science and technologies (optimization, looking forward)
 ***
 ## Uses : 
 ***
